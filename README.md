@@ -1,4 +1,4 @@
-![comparison](docs/comparison.jpg)
+![comparison](lb.png)
 ## Main Results
 
 ### [nuScenes](https://www.nuscenes.org/tracking?externalData=all&mapData=all&modalities=Any)
