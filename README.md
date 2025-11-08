@@ -1,7 +1,7 @@
 # AutoTrack
 
 <div align="center">
-    <img src="(https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif)" alt="WalFusion" width="400" />
+    <img src="(https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif)" alt="WalFusion" width="800" />
 
 ![comparison](https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif)
 
