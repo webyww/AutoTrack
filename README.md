@@ -1,8 +1,9 @@
 # AutoTrack
 
 <img src="[./doc/AutoTrack.gif](https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif)" width="800" alt="KITTI跟踪结果">
-    
-</video>
+
+<div align="center">
+    <img src="(https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif)" alt="WalFusion" width="400" />
 ![comparison](lb.png)
 
 ### [Youtube](https://youtu.be/RgQ2RkXjt44)
