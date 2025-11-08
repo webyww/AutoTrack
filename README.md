@@ -1,7 +1,6 @@
 # AutoTrack
 
-<video controls width="640" height="360">
-    <source src="[output_videos/kitti_tracking_2d_0011.mp4](https://github.com/webyww/AutoTrack/blob/main/kitti_tracking_2d_0018.mp4)" type="video/mp4">
+<img src="./doc/AutoTrack.gif" width="800" alt="KITTI跟踪结果">
     
 </video>
 ![comparison](lb.png)
@@ -39,5 +38,25 @@
  AutoTrack    | Centerpoint   | 81.05      | 89.87    | 36       |      [Google Drive]([https://www.nuscenes.org/tracking?externalData=all&mapData=all&modalities=Any](https://drive.google.com/file/d/1mMJwioLTqLOcuGHiuQ8d5FPaHqhRZQQA/view?usp=sharing))     |----------|
 
  https://eval.ai/web/challenges/challenge-page/476/leaderboard/1321
+
+ 
+## 6. Acknowledgement
+
+- In the detection part, many thanks to the following open-source projects:
+  
+  - [FocalFormer](https://github.com/tusen-ai/SST?tab=readme-ov-file)
+    
+  - [VirConv](https://github.com/hailanyi/VirConv)
+    
+  - [CenterPoint](https://github.com/tianweiy/CenterPoint)
+    
+- In the tracking part, many thanks to the following open-source projects:
+  
+  - [Fast-poly](https://github.com/lixiaoyu2000/FastPoly)
+  
+  - [MCTrack](https://github.com/megvii-research/MCTrack)
+    
+  - [Poly-MOT](https://github.com/lixiaoyu2000/Poly-MOT)
+
 
  
