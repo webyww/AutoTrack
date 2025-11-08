@@ -4,7 +4,7 @@
   
 **AutoTrack 主要功能演示**
 
-<img src="https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif" width="1000" alt="AutoTrack功能演示">
+<img src="https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif" width="1500" alt="AutoTrack功能演示">
 
 
 </div>
