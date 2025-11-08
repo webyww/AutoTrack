@@ -40,7 +40,7 @@
  https://eval.ai/web/challenges/challenge-page/476/leaderboard/1321
 
  
-## 6. Acknowledgement
+## Acknowledgement
 
 - In the detection part, many thanks to the following open-source projects:
   
