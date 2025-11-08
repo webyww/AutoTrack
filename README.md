@@ -2,14 +2,13 @@
 
 <div align="center">
   
-**AutoTrack 主要功能演示**
+**AutoTrack on Kitti**
 
-<img src="https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif" width="1500" alt="AutoTrack功能演示">
+<img src="https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif" width="1500" alt="AutoTrack">
 
 
 </div>
 
-![comparison](https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif)
 
 ![comparison](https://github.com/webyww/AutoTrack/blob/main/doc/lb.png)
 
