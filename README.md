@@ -1,8 +1,9 @@
 # AutoTrack
-<div align="center">
-    <img src="https://github.com/webyww/AutoTrack/blob/main/kitti_tracking_2d_0018.mp4" alt="WalFusion" width="400" />
 
-
+<video controls width="640" height="360">
+    <source src="[output_videos/kitti_tracking_2d_0011.mp4](https://github.com/webyww/AutoTrack/blob/main/kitti_tracking_2d_0018.mp4)" type="video/mp4">
+    
+</video>
 ![comparison](lb.png)
 
 ### [Youtube](https://youtu.be/RgQ2RkXjt44)
