@@ -1,5 +1,7 @@
 # AutoTrack
-![](kitti_tracking_2d_0018.mp4)
+<div align="center">
+    <img src="https://github.com/webyww/AutoTrack/blob/main/kitti_tracking_2d_0018.mp4" alt="WalFusion" width="400" />
+
 
 ![comparison](lb.png)
 
