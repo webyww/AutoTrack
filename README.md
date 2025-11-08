@@ -1,4 +1,5 @@
-# 🚗 AutoTrack: Training-Free and Interpretable 3D Multi-Object Tracking
+# 🚗 AutoTrack: An auto threshold and accurate 3D Multi-Object
+Tracking Framework for Autonomous Driving
 
 <div align="center">
 
