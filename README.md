@@ -4,9 +4,9 @@
   
 **AutoTrack 主要功能演示**
 
-<img src="https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif" width="600" alt="AutoTrack功能演示">
+<img src="https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif" width="1000" alt="AutoTrack功能演示">
 
-*图：AutoTrack 自动跟踪算法演示*
+
 </div>
 
 ![comparison](https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif)
