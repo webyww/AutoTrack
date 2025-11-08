@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-Under_Review-blue)]()
+[![Paper]()]()
 [![YouTube Demo](https://img.shields.io/badge/🎬_Demo-YouTube-red)](https://youtu.be/RgQ2RkXjt44)
 [![NuScenes Leaderboard](https://img.shields.io/badge/NuScenes-Leaderboard-green)](https://eval.ai/web/challenges/challenge-page/476/leaderboard/1321)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)]()
@@ -20,9 +20,29 @@
 
 ## 🧩 Overview
 
-**AutoTrack** is a training-free and fully interpretable **3D Multi-Object Tracking (MOT)** framework for autonomous driving.  
-It introduces an **Observation-Driven Motion Model (ODM)** and an **Adaptive Thresholding Mechanism**,  
-achieving state-of-the-art performance on **nuScenes** and **KITTI** without any task-specific training.
+**AutoTrack** Multi-object tracking (MOT) in autonomous driving
+remains challenging due to motion prediction errors, observation
+noise, and reliance on manually tuned matching thresholds. In
+this paper, we propose AutoTrack, an efficient, training-free,
+and fully interpretable 3D MOT framework with an adaptive
+thresholding mechanism. Specifically, we design an Observation-
+Driven motion Model(ODM) that leverages fully observable
+variables to improve state prediction accuracy. A Dynamic Noise
+Adjustment(DNA) strategy is incorporated to adaptively update
+the process and observation noise covariances in real time,
+enhancing filtering robustness under dynamic uncertainty. To
+address similarity metric imbalance during data association, we
+introduce a novel Gaussian Affinity(GA) cost that unifies transla-
+tional and rotational discrepancies in a probabilistic space, yield-
+ing more discriminative and consistent associations. Moreover, an
+Auto Thresholding algorithm automatically determines matching
+boundaries across diverse driving scenarios, eliminating heuristic
+tuning. Extensive experiments on the nuScenes and KITTI bench-
+marks demonstrate that AutoTrack achieves superior perfor-
+mance, attaining 77.9% AMOTA with only 178 identity switches
+on the nuScenes test set, significantly surpassing existing state-
+of-the-art methods. The implementation and evaluation results
+are publicly available at: https://github.com/webyww/AutoTrack.
 
 ---
 
