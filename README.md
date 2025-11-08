@@ -1,6 +1,6 @@
 # AutoTrack
 
-<img src="./doc/AutoTrack.gif" width="800" alt="KITTI跟踪结果">
+<img src="[./doc/AutoTrack.gif](https://github.com/webyww/AutoTrack/blob/main/doc/AutoTrack.gif)" width="800" alt="KITTI跟踪结果">
     
 </video>
 ![comparison](lb.png)
