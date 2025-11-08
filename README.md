@@ -11,6 +11,7 @@
 
 
 ![comparison](https://github.com/webyww/AutoTrack/blob/main/doc/lb.png)
+[NuScenes Leaderboard](https://eval.ai/web/challenges/challenge-page/476/leaderboard/1321)   
 
 
 ### [Youtube](https://youtu.be/RgQ2RkXjt44)
@@ -19,7 +20,7 @@
 ### [nuScenes](https://www.nuscenes.org/tracking?externalData=all&mapData=all&modalities=Any)
 
 #### 3D Multi-object tracking on nuScenes test set   
-[NuScenes Leaderboard](https://eval.ai/web/challenges/challenge-page/476/leaderboard/1321)   
+
 
  Method       | Detector      | AMOTA    | MOTA     | IDS      |   Model   |   log    |
 --------------|---------------|----------|----------|----------|----------|----------|
