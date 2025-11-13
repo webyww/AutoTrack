@@ -101,12 +101,14 @@ pip install -r requirements.txt
 
 This project would not have been possible without the following outstanding open-source works:
 
-- **[MCTrack](https://github.com/lixiaoyu2000/FastPoly.git)** - [OpenMMLab]([https://github.com/open-mmlab](https://github.com/lixiaoyu2000/FastPoly.git))
+- **[MCTrack](https://github.com/lixiaoyu2000/FastPoly)**
+  
+- **[Fast-poly](https://github.com/lixiaoyu2000/FastPoly)** 
     
-- **[Fast-poly](https://github.com/tianweiy/CenterPoint)** - [CenterPoint](https://github.com/tianweiy/CenterPoint)
+- **[Poly-mot](https://github.com/lixiaoyu2000/Poly-MOT)** 
     
-- **[Poly-mot]([https://github.com/nv-tlabs/lift-splat-shoot](https://github.com/lixiaoyu2000/FastPoly.git))** - [Lift-Splat-Shoot](https://github.com/nv-tlabs/lift-splat-shoot)
+- **[FF3D](https://github.com/lixiaoyu2000/FastPoly)**
+  
+- **[CenterPoint](https://github.com/tianweiy/CenterPoint)** 
     
-- **[FF3D]([https://github.com/mit-han-lab/bevfusion](https://github.com/lixiaoyu2000/FastPoly.git))** - [BEVFusion]([https://github.com/mit-han-lab/bevfusion](https://github.com/lixiaoyu2000/FastPoly.git))
-    
-- **[3D-Detection-Tracking-Viewer]([https://github.com/mit-han-lab/bevfusion](https://github.com/hailanyi/3D-Detection-Tracking-Viewer)** - [3D Detection & Tracking Viewer]([https://github.com/hailanyi/3D-Detection-Tracking-Viewer](https://github.com/lixiaoyu2000/FastPoly.git))
+- **[3D-Detection-Tracking-Viewer](https://github.com/hailanyi/3D-Detection-Tracking-Viewer)**
