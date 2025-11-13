@@ -94,7 +94,8 @@ are publicly available at: https://github.com/webyww/AutoTrack.
 git clone https://github.com/webyww/AutoTrack.git
 cd AutoTrack
 pip install -r requirements.txt
-
+```
+---
 
 ## 🙏 Acknowledgement
 
