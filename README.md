@@ -61,28 +61,28 @@ are publicly available at: https://github.com/webyww/AutoTrack.
 ## 🏆 Main Results
 
 ### **nuScenes Test Set**
-| Method | Detector | AMOTA | MOTA | IDS | Model | Log |
+| Method | Detector | AMOTA | MOTA | IDS | Result | Log |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | **AutoTrack** | FocalFormer-F | **77.9** | **66.5** | 178 | [Google Drive](https://drive.google.com/file/d/1mMJwioLTqLOcuGHiuQ8d5FPaHqhRZQQA/view?usp=sharing) | — |
 
 ---
 
 ### **nuScenes Val Set**
-| Method | Detector | AMOTA | MOTA | IDS | Model | Log |
+| Method | Detector | AMOTA | MOTA | IDS | Result | Log |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | **AutoTrack** | FocalFormer-F | **79.3** | **69.6** | 136 | [Google Drive](https://drive.google.com/file/d/1mMJwioLTqLOcuGHiuQ8d5FPaHqhRZQQA/view?usp=sharing) | — |
 
 ---
 
 ### **KITTI Test Set**
-| Method | Detector | HOTA | MOTA | IDS | Model | Log |
+| Method | Detector | HOTA | MOTA | IDS | Result | Log |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | **AutoTrack** | CenterPoint | **81.05** | **89.87** | 36 | [Google Drive](https://drive.google.com/file/d/1mMJwioLTqLOcuGHiuQ8d5FPaHqhRZQQA/view?usp=sharing) | — |
 
 ---
 
 ### **KITTI Val Set**
-| Method | Detector | HOTA | MOTA | IDS | Model | Log |
+| Method | Detector | HOTA | MOTA | IDS | Result | Log |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | **AutoTrack** | CenterPoint | **81.05** | **89.87** | 36 | [Google Drive](https://drive.google.com/file/d/1mMJwioLTqLOcuGHiuQ8d5FPaHqhRZQQA/view?usp=sharing) | — |
 
