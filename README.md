@@ -94,3 +94,17 @@ are publicly available at: https://github.com/webyww/AutoTrack.
 git clone https://github.com/webyww/AutoTrack.git
 cd AutoTrack
 pip install -r requirements.txt
+
+
+## Acknowledgement
+
+This project is not possible without multiple great open-sourced code bases. We list some notable examples below.
+
+- [MCTrack](https://github.com/open-mmlab)
+- [Fast-poly](https://github.com/tianweiy/CenterPoint)
+- [Poly-mot](https://github.com/nv-tlabs/lift-splat-shoot)
+- [FF3D](https://github.com/mit-han-lab/bevfusion)
+- [3D-Detection-Tracking-Viewer](https://github.com/mit-han-lab/bevfusion)
+
+
+## Bibtex
