@@ -42,8 +42,7 @@ tuning. Extensive experiments on the nuScenes and KITTI bench-
 marks demonstrate that AutoTrack achieves superior perfor-
 mance, attaining 77.9% AMOTA with only 178 identity switches
 on the nuScenes test set, significantly surpassing existing state-
-of-the-art methods. The implementation and evaluation results
-are publicly available at: https://github.com/webyww/AutoTrack.
+of-the-art methods.
 
 ---
 
