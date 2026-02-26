@@ -62,21 +62,21 @@ of-the-art methods.
 ### **nuScenes Test Set**
 | Method | Detector | AMOTA | MOTA | IDS | Result | Log |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **AutoTrack** | FocalFormer-F | **77.9** | **66.5** | 178 | [Google Drive](https://drive.google.com/file/d/1mMJwioLTqLOcuGHiuQ8d5FPaHqhRZQQA/view?usp=sharing) | — |
+| **AutoTrack** | FocalFormer-F | **77.9** | **66.5** | 178 | [Google Drive](https://drive.google.com/file/d/1Ars3pKcvTHuuPadDbUNLeiV5VyHb6JZe/view?usp=sharing) | — |
 
 ---
 
 ### **nuScenes Val Set**
 | Method | Detector | AMOTA | MOTA | IDS | Result | Log |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **AutoTrack** | FocalFormer-F | **79.3** | **69.6** | 136 | [Google Drive](https://drive.google.com/file/d/1mMJwioLTqLOcuGHiuQ8d5FPaHqhRZQQA/view?usp=sharing) | — |
+| **AutoTrack** | FocalFormer-F | **79.3** | **69.6** | 136 | [Google Drive](-) | — |
 
 ---
 
 ### **KITTI Test Set**
 | Method | Detector | HOTA | MOTA | IDS | Result | Log |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **AutoTrack** | CenterPoint | **81.05** | **89.87** | 36 | [Google Drive](https://drive.google.com/file/d/1mMJwioLTqLOcuGHiuQ8d5FPaHqhRZQQA/view?usp=sharing) | — |
+| **AutoTrack** | CenterPoint | **81.05** | **89.87** | 36 | [Google Drive](-) | — |
 
 ---
 
